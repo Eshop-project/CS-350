@@ -4,7 +4,7 @@ Other Roles - Requirements.md , Design.md , Code.md , Test.md, Hello World!.PNG,
 
 File: Milestone-1/Test.md
 
-URL: https://github.com/Eshop-project/Milestone_1/blob/master/Test.md
+URL: https://github.com/Eshop-project/CS-350/blob/master/Milestone_1/Test.md
 
 Documents: https://github.com/Eshop-project/Milestone_1
 
