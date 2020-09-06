@@ -6,9 +6,9 @@ File: Milestone-1/Test.md
 
 URL: https://github.com/Eshop-project/CS-350/blob/master/Milestone_1/Test.md
 
-Documents: https://github.com/Eshop-project/Milestone_1
+Documents: https://github.com/Eshop-project/CS-350/tree/master/Milestone_1
 
-Git Repo: https://github.com/Eshop-project
+Git Repo: https://github.com/Eshop-project/CS-350
 
 Milestone 1. Project Plan Complete Role: QA Engineer Bryan Aguilar - Test
 
