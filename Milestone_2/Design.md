@@ -31,6 +31,7 @@ Following the CRUD acronym, or the [CREATE | READ | UPDATE | DELETE] system, we 
 #### Company Data
     - user.description
     - user.products                : EACH ELEMENT OF TABLE WILL HAVE THESE SPECIFIC COLUMN TITLES
+        - products.company         : GET USER
         - products.id
         - products.url
         - products.tax
@@ -74,17 +75,43 @@ Following the CRUD acronym, or the [CREATE | READ | UPDATE | DELETE] system, we 
 
 ### MODELS
 
-Above would be the database schema. From the user data we could derive a few models that would access the necessary database tables. I will not specify the specific tables, because it may be ambiguous now, but will not be in the future. Also these classes listed below will have methods to account for CRUD operations.
+Above would be the database schema. From the user data we could derive a few models that would access the necessary database tables. I will not specify the specific tables or methods because it may be ambiguous now, but will not be in the future. Also these classes listed below will have methods to account for CRUD operations.
 
 - User 
     - Most user info.
 - Product
     - Meant for getting product data such as name, picture, description, ect. Tied to company user model.
 - Payment
-    Model for holding payment data such as credit cards, cvv, exp. dates, ect. Tied to personal user model.
+    - Model for holding payment data such as credit cards, cvv, exp. dates, ect. Tied to personal user model.
     
-W
+--- EXTRA CLASS
 
+- Search 
+    - Class for calling on User and Product classes to return list of products and companies data
+    
+The User class will have the ability to call on the product class to CRUD products.
+The User class will have the ability to call on the payment class to CRUD payment info. It will also be able to call on the product class to find the company of products purchased to relate payments back to companies that had their products purchased.
+** Note : this cannot be done completely by the user class and the payment class because the specific products may have differing company's
+
+The Search class will be able to call on products and user classes to display local products and company users to the personal accounts.
+
+##### These three classes are essential to the functionality and purpose of app, based on Milestone_1 requirements.
+
+The apps Views depend on the four classes by 
+- Displaying the product and company information (Main Page)
+- Displaying products ready for purchase (Cart Page)
+- Displaying specific company info (Company Page)
+- Completing purchases (Finalizing Payments Page)
+- Displaying search results (Search Page)
+- Displaying personal page for specific user. This would be page that allows editting of products(if company account), bio, pictures, social medias. There would be a distinction of company user page and personal user page, TBD.~~ Displaying company page when user is the company, for editting products, company bio, pictures, social medias, ect. (Company Page)~~
+
+### Phases of implementation
+
+- Drawing out full display of tables and types of data needed for base functionality, with the organization to add/change or remove easily. 
+- Creating models for database. Creating methods for getting all this data.
+- Adding one user to test out functionality.
+
+Milestone_3 will be the time for testing large numbers of users and possibly getting a distinction of user info(company, personal) and displaying info respectfully.
 
     
     
