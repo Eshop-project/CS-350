@@ -25,7 +25,7 @@ tree eShop
 
 The [settings.py] file runs the app startup.
 
-This is in the "bookbuilder" app folder.
+This is in the "web_design" app folder.
 
 Startup files are "asgi.py" and "wsgi.py" and "manage.py".
 
