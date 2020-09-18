@@ -9,7 +9,7 @@ Goal: Present a simple application hosted live to prove we are heading in the ri
 * Host application at pythonanywhere
 
 ### Code Structure for eShop Project
-* Use the following link to look at the tree structure of our [Code Structure](../CodeStructure.md)
+* Use the following link to look at the tree structure of our [Code Structure](../../CodeStructure.md)
 
 ### eShop - Hosting application live workflow
 * Create an account at pytonanywhere
