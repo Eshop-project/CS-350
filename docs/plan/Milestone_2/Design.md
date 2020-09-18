@@ -103,7 +103,7 @@ The apps Views depend on the four classes by
 - Displaying specific company info (Company Page)
 - Completing purchases (Finalizing Payments Page)
 - Displaying search results (Search Page)
-- Displaying personal page for specific user. This would be page that allows editting of products(if company account), bio, pictures, social medias. There would be a distinction of company user page and personal user page, TBD.~~ Displaying company page when user is the company, for editting products, company bio, pictures, social medias, ect. (Company Page)~~
+- Displaying personal page for specific user. This would be page that allows editting of products(if company account), bio, pictures, social medias. There would be a distinction of company user page and personal user page, TBD. ~~Displaying company page when user is the company, for editting products, company bio, pictures, social medias, ect. (Company Page)~~
 
 ### Phases of implementation
 
