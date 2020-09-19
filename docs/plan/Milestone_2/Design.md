@@ -3,7 +3,7 @@
 ## --- Project Info ---------------------------------------------------------------------------------------
 
 - [eShop Project Folder](https://github.com/Eshop-project/CS-350)
-- Other roles: [Code](https://github.com/Eshop-project/CS-350/blob/master/docs/plan/Milestone_2/Code.md), [Requirements](), [Tests](https://github.com/Eshop-project/CS-350/blob/master/docs/plan/Milestone_2/Test.md), []()
+- Other roles: [Code](https://github.com/Eshop-project/CS-350/blob/master/docs/plan/Milestone_2/Code.md), [Requirements](https://github.com/Eshop-project/CS-350/blob/master/docs/plan/Milestone_2/Requirements.md), [Tests](https://github.com/Eshop-project/CS-350/blob/master/docs/plan/Milestone_2/Test.md)
 
 ### Milestone_2
 
