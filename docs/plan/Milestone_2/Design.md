@@ -19,7 +19,7 @@ I am to work with the coder and requirements to fit a design that matches the re
 
 ### DATA
 
-Following the CRUD acronym, or the [CREATE | READ | UPDATE | DELETE] system, we should be able to implement a handful of authorizations to each type of data that will allow for the best user experience in the app. First let's explain the needed models and the data to accompany those models:
+Following the CRUD acronym, or the [CREATE | READ | UPDATE | DELETE] system, we should be able to implement a handful of authorizations to each type of data that will allow for the best user experience in the app. First let's explain the needed data and the models to accompany the data:
 
 - User data; can be C, R, U, (D, with the exception of some information worth keeping)
 #### Basic Data
@@ -30,11 +30,11 @@ Following the CRUD acronym, or the [CREATE | READ | UPDATE | DELETE] system, we 
     
 #### Company Data
     - user.description
-    - user.products                : EACH ELEMENT OF TABLE WILL HAVE THESE SPECIFIC COLUMN TITLES
+    - user.products                : EACH ELEMENT OF TABLE WILL HAVE THESE SPECIFIC FEATURE NAMES
         - products.company         : GET USER
         - products.id
         - products.url
-        - products.tax
+        - products.tax             : NOT NEEDED
         - products.price           : PRICE
         - products.description     : DESCR.
         - products.picture         : PICTURE OF PRODUCT
