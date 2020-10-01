@@ -1,6 +1,6 @@
 ### Milestone_3 Sprint
 
-I have no idea what the format of this is supposed to be so I'll explain the print that the team preformed for the last week and a half and explain the programming side of what was done.
+I have no idea what the format of this is supposed to be so I'll explain the sprint that the team preformed for the last week and a half and explain the programming side of what was done.
 
 ## Sprint Plan
 - We will add html files and css, along with @Bootstrap to make the website look pretty.
