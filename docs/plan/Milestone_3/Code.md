@@ -33,6 +33,7 @@ I will leave the custom user/guest to be implemented in Milestone_4
 - Finish custom user app
 - Get guest implementation finished
 - Configure all HTML to be prone to user athentication, so only user see's what they are meant to.
+
 ---------- Possible Adds, based on group opinion ---------------------------------------------
 - Add search based on database
 - Add more javaScript
