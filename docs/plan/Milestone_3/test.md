@@ -1,11 +1,11 @@
-### Test Role - Automated Testing
+# Test Role - Automated Testing
 
 ## Workflow for Test Driven Development
 When we create an application a test.py file is autoatically created by Django. This is where all of our tests will live. During milestone #3 we built several test cases. Check our [test.py](../../eShopping_main/eshop/test.py).
 
 In a Test Driven Development the test drives the progress of the code. Here is how we write and run our test enviroment.
 
-# Workflow
+## Workflow
 - Write some code.
 - Write a test in test.py to test the functionality of the code
 - Inside the console, Run 'Python Manage.py test' 
@@ -24,7 +24,7 @@ Inside test.py there are two classes. Each class contains multiple functions tha
 
 System testing is done to check whether the software or product meets the specified requirements or not. System testing involes everything that we have built so far. We are trying to evaluate that our progress is taking us in the right direction that we eventually reach our end goal. We do this type of testing when we go through our workflow, while we test our site locally at 127.0.0.1:8000 and after we have uploaded it to pythonanywhere.
 
-# References
+### References
 - “Difference between Unit Testing and System Testing.” GeeksforGeeks, 17 May 2019, www.geeksforgeeks.org/difference-between-unit-testing-and-system-testing/. 
 
 
