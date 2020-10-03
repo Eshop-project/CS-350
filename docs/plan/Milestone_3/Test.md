@@ -1,7 +1,7 @@
 # Test Role - Automated Testing
 
 ## Workflow for Test Driven Development
-When we create an application a test.py file is autoatically created by Django. This is where all of our tests will live. During milestone #3 we built several test cases. Check our [test.py](../../../eShopping_Main/eshop/test.py).
+When we create an application a test.py file is autoatically created by Django. This is where all of our tests will live. During milestone #3 we built several test cases. Check our [test.py](../../../eShopping_Main/eshop/tests.py).
 
 In a Test Driven Development the test drives the progress of the code. Here is how we write and run our test enviroment.
 
