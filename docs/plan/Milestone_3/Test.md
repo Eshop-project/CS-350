@@ -1,7 +1,7 @@
 # Test Role - Automated Testing
 
 ## Workflow for Test Driven Development
-When we create an application a test.py file is autoatically created by Django. This is where all of our tests will live. During milestone #3 we built several test cases. Check our [test.py](../../../eShopping_Main/eshop/tests.py).
+When we create an application a test.py file is autoatically created by Django. This is where all of our tests will live. During milestone #3 we built several test cases. Check our [test.py](../../../eShopping_Main/eshop/tests.py) file.
 
 In a Test Driven Development the test drives the progress of the code. Here is how we write and run our test enviroment.
 
@@ -16,7 +16,7 @@ In a Test Driven Development the test drives the progress of the code. Here is h
 
 ## Unit Testing 
 
-Unit Testing is the type of software testing level in which each individual components of a software are tested(geeksforgeeks)
+Unit Testing is the type of software testing level in which each individual components of a software are tested(geeksforgeeks).
 
 Inside test.py there are two classes. Each class contains multiple functions that test for our code to make sure it is working how its supposed to. The first class is 'ViewsTest', this class was built to test all of the views and templates in our application. The second class in test.py is 'ModelTest', this class is testing all of our models to make sure that objects can be created and retrived without issues. 
 
