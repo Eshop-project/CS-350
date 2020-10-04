@@ -14,11 +14,11 @@
 
 * File: Milestone-3/Requirements.md
 
-* URL: https://github.com/Mark-Seaman/Mark-Seaman.github.io/blob/master/BookBuilder/Milestone-3/Requirements.md
+* URL: https://github.com/Eshop-project/CS-350/blob/master/docs/plan/Milestone_3/Requirements.md
 
-* Documents: Documents/swplan/BookBuilder
+* Documents: CS-350/blob/master/
 
-* Git Repo: Mark-Seaman.github.io
+* Git Repo: https://github.com/Eshop-project
 
 
 
