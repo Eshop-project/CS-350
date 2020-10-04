@@ -45,3 +45,5 @@ Goal: Functional requirements
 
 * As of now we have been focusing on getting the website views running and hosted.  It does not have functionality for adding items or creating users yet however, we were discussing how we wanted users and customers to function within our website. One possibility was we could force them to create an account to purchase items, otherwise we are trying to focus on distinguishing between customers and users.
 
+* Also as a side note I am waiting for Milestone 2 to be graded and figure out which areas we have succeeded as a group and mark down errors from there.
+
