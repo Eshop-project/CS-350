@@ -19,9 +19,10 @@ Role: Designer - Design
 
 Goal: Component Design - API
 
-Prototype - development spike of core functionality
+###Prototype - development spike of core functionality
 
 Implement data models
+
 ![image info](model.png)
 
 Implement views
