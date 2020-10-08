@@ -21,20 +21,18 @@ Goal: Component Design - API
 
 ###Prototype - development spike of core functionality
 
-Implement data models
+Implement data models- In our data model we have 6 models that store all of the information needed for the Eshop Website.  The models are show below in this diagram.
 
 ![image info](model.png)
 
-Implement views
+Implement views- For the views we have a admin view that allows the Superuser to login into to see orders, edit orders and add Items. This view is to be used by site personal only.  The Store view displays all the items we have for sale.  The Cart view displays all items in shopping cart.  There is a Checkout view that totals up cart price and conducts final transaction.  Three more views are need but not finished which include Order, Success and Registration.
 
-Implement URL routes
+Implement URL routes-
 
-Book Builder - Component Design - API
+Admin View- https://eshopproject.pythonanywhere.com/admin/login/?next=/admin/
 
-Prototype - development spike of core functionality
+Store View- https://eshopproject.pythonanywhere.com/ 
 
-Implement data models
+Shopping Cart- https://eshopproject.pythonanywhere.com/cart/
 
-Implement views
-
-Implement URL routes
+Checkout- https://eshopproject.pythonanywhere.com/checkout/
