@@ -15,7 +15,7 @@ Documents: https://github.com/Eshop-project/CS-350/tree/master/docs/plan
 Git Repo: https://github.com/Eshop-project/CS-350
 
 ## Milestone 3. Core Features Implemented
-Role: Designer - Design
+Role: Designer Bryan Aguilar - Design
 
 Goal: Component Design - API
 
