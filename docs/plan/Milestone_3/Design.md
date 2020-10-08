@@ -1,18 +1,18 @@
 # Milestone 3. Core Features Implemented - Design
 PROJECT INFO
-Software Project Plan - Book Builder
+Software Project Plan - Eshop Ecommerce website
 
 Other Roles - Requirements.md , Design.md , Code.md , Test.md
 
 File: Milestone-3/Design.md
+Website URL: https://eshopproject.pythonanywhere.com/
+URL: https://github.com/Eshop-project/CS-350/edit/master/docs/plan/Milestone_3/Design.md
 
-URL: https://github.com/Mark-Seaman/Mark-Seaman.github.io/blob/master/BookBuilder/Milestone-3/Design.md
+Documents: https://github.com/Eshop-project/CS-350/tree/master/docs/plan
 
-Documents: Documents/swplan/BookBuilder
+Git Repo: https://github.com/Eshop-project/CS-350
 
-Git Repo: Mark-Seaman.github.io
-
-Milestone 3. Core Features Implemented
+## Milestone 3. Core Features Implemented
 Role: Designer - Design
 
 Goal: Component Design - API
