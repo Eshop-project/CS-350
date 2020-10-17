@@ -7,7 +7,7 @@
 
 
 
-* File: Milestone-4/Test.md
+* File: Milestone_4/Test.md
 
 * URL: https://github.com/Eshop-project/CS-350/blob/master/docs/plan/Milestone_4/Test.md
 
