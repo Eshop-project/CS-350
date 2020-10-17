@@ -1,6 +1,6 @@
 # Requirements Role - Team Coordinator
 
-### Milestone Goals
+## Milestone Goals
 - Task Kanban 
 - Prioritize feature request
 - Sprint Planning
