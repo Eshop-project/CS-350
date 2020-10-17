@@ -3,5 +3,5 @@
 ## Role Goals
 ### Task Kanban 
 ### Prioritize feature request
-- Sprint Planning
-- Burn-down graph
+### Sprint Planning
+### Burn-down graph
