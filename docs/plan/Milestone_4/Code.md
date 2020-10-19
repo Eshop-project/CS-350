@@ -1,6 +1,6 @@
 # Milestone 4. Functionality Complete - Code
 ## PROJECT INFO
-Software Project Plan - Book Builder
+Software Project Plan - Eshop - Ecommerce store
 
 Other Roles - Requirements.md , Design.md , Code.md , Test.md
 
