@@ -18,12 +18,11 @@ Role: Programmer Bryan Aguilar- Code
 ### Goal: Write code - core features
 
 Implement User Stories
+
 Test-driven workflow
+
 Implementation Cycle - Test, Fix, Extend, Improve
+
 Implement all core features
 
-Book Builder - Write code - core features
-Implement User Stories
-Test-driven workflow
-Implementation Cycle - Test, Fix, Extend, Improve
-Implement all core features
+
