@@ -22,7 +22,7 @@ Through the process of deducing our issues with the code, everyone contributed t
 
 ### Implement Travis (CI tool) or Code Coverage
 
-File for the continuous integration workflow is [here].(https://github.com/Eshop-project/CS-350/tree/master/.github/workflows)
+File for the continuous integration workflow is [here](https://github.com/Eshop-project/CS-350/tree/master/.github/workflows).
 The integration of the workflow is contained in a pylint file that should check all python code for bugs and quality. The issue is we'll need a check for the html, javascript, and CSS. This is not the biggest priority due to the fact that almost everything is tied into the Django framework, so we don't need to worry about everything else as much because if there are errors in the python, this is what we want to catch first, while other files of other code will be cosmetic issues, at best.
 
 ### Document release process
