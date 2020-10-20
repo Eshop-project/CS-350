@@ -33,7 +33,7 @@ Goal: Refactoring and code structure
 
 
 ### Draw diagram of code structure
-
+[Here](https://github.com/Eshop-project/CS-350/blob/master/docs/plan/Milestone_4/django%20diagram.png)
 
 ### Design API 
 Explanation: An API key or application programming interface key is a code that gets passed in by computer applications. The program or application then calls the API or application programming interface to identify its user, developer or calling program to a website. 
