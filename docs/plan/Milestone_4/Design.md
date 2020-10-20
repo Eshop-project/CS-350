@@ -2,7 +2,7 @@
 
 ## PROJECT INFO
 
-* [Software Project Plan - Twitter Clone](../Index.md)
+* [Software Project Plan - ShopLocal](../Index.md)
 
 * Other Roles - [Requirements.md](Requirements.md)
 , [Code.md](Code.md)
