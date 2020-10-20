@@ -35,4 +35,7 @@ Goal: Refactoring and code structure
 ### Draw diagram of code structure
 
 
-### Design API endpoints
+### Design API 
+Explanation: An API key or application programming interface key is a code that gets passed in by computer applications. The program or application then calls the API or application programming interface to identify its user, developer or calling program to a website. 
+
+[Here](https://github.com/Eshop-project/CS-350/blob/master/docs/plan/Milestone_4/api_keys_overview.png) is an image to help further understand this concept.
