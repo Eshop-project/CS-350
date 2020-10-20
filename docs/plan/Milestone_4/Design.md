@@ -30,10 +30,10 @@ Goal: Refactoring and code structure
 
 ## Shop Local - Refactoring and code structure
 ### Create framework for customer and guest checkout
-
+We have implemented the guest checkout so as of now our website should be functionable from a end user viewpoint.  The next goal is working on user creation and working on which data should be viewed by an actual customer login.
 
 ### Draw diagram of code structure
-[Here](https://github.com/Eshop-project/CS-350/blob/master/docs/plan/Milestone_4/django%20diagram.png)
+Our code diagram structure can be found [here](https://github.com/Eshop-project/CS-350/blob/master/docs/plan/Milestone_4/django%20diagram.png)
 
 ### Design API 
 Explanation: An API key or application programming interface key is a code that gets passed in by computer applications. The program or application then calls the API or application programming interface to identify its user, developer or calling program to a website. 
