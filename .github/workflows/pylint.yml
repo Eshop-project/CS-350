@@ -21,4 +21,4 @@ jobs:
         pip install django
     - name: Analysing the code with pylint
       run: |
-        pylint --disable=missing-docstring,invalid-name,bad-whitespace,duplicate-code,import-error,consider-using-enumerate,no-name-in-module,no-member,too-many-arguments,no-else-return eShopping
+        pylint --disable=missing-docstring,invalid-name,bad-whitespace,duplicate-code,import-error,consider-using-enumerate,no-name-in-module,no-member,too-many-arguments,no-else-return,line-too-long,missing-final-newline,trailing-whitespace,unused-import,undefined-variable,redundant-unittest-assert,wildcard-import,unused-wildcard-import,pointless-string-statement,unused-variable,singleton-comparison,bare-except,invalid-str-returned,broad-except,too-few-public-methods,wrong-import-order,import-outside-toplevel eShopping
