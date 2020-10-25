@@ -16,10 +16,6 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        init-hook=
-          try: import pylint_venv
-          except ImportError: pass
-          else: pylint_venv.inithook()
         pip install pylint --find-links=eShopping/eshopping/.venv
         pip install django
     - name: Analysing the code with pylint
