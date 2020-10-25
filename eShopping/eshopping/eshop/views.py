@@ -139,14 +139,14 @@ def processOrder(request):
     order.save()
 
     if order.shipping == True:
-            ShippingAddress.objects.create(
-                customer=customer,
-                order=order,
-                address=data['shipping']['address'],
-                city=data['shipping']['city'],
-                state=data['shipping']['state'],
-                zipcode=data['shipping']['zipcode'],
-            )
+        ShippingAddress.objects.create(
+            customer=customer,
+            order=order,
+            address=data['shipping']['address'],
+            city=data['shipping']['city'],
+            state=data['shipping']['state'],
+            zipcode=data['shipping']['zipcode'],
+        )
     return JsonResponse('Payment Complete!', safe=False)
 
 
