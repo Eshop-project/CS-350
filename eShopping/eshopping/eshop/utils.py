@@ -2,12 +2,6 @@ import json
 from . models import *
 
 # Used to get customer object.
-def checkForCustomer(user):
-    try:
-        return Customer.objects.get(user=user)
-    except Exception as error:
-        print('The %s is the following error that we got when trying to assign customer object.', error)
-
 
 def cookieCart(request):
     try:
@@ -55,7 +49,7 @@ def cartData(request):
     if request.user.is_authenticated:
         user = request.user
 
-        customer = checkForCustomer(user)
+        customer = Customer.check_user(user)
         order, created = Order.objects.get_or_create(customer=customer, complete=False)
         items = order.orderitem_set.all()
         cartItems = order.get_cart_items

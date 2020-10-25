@@ -13,12 +13,6 @@ from .models import *
 from .forms import OrderForm, CreateUserForm
 from .utils import cookieCart, cartData, guestOrder
 
-def checkForCustomer(user):
-    try:
-        return Customer.objects.get(user=user)
-    except Exception as error:
-        print('The %s is the following error that we got when trying to assign customer object.', error)
-
 def registerPage(request):
     if request.user.is_authenticated:
         return redirect('store')
@@ -106,7 +100,7 @@ def updateItem(request):
 
     user = request.user
 
-    customer = checkForCustomer(user)
+    customer = Customer.check_user(user)
     product = Product.objects.get(id=productId)
     order, created = Order.objects.get_or_create(customer=customer, complete=False)
 
@@ -132,7 +126,7 @@ def processOrder(request):
     if request.user.is_authenticated:
         user = request.user
 
-        customer = checkForCustomer(user)
+        customer = Customer.check_user(user)
         order, created = Order.objects.get_or_create(customer=customer, complete=False)
     else:
         customer, order = guestOrder(request, data)
