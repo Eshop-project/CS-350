@@ -20,4 +20,4 @@ jobs:
         pip install django
     - name: Analysing the code with pylint
       run: |
-        pylint --load-plugins pylint_django eShopping_Main
+        pylint --load-plugins pylint_django eShopping
