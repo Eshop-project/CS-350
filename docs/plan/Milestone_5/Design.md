@@ -14,8 +14,7 @@ Up to this Milestone we have implemented all of these major features that our E-
 |Paypal Implementation |6|
 |Bug clean up and Final Presentation |7|
 
-The last main feature that we have yet to incorporate into our application is the PayPal implementation. Being able to handle transactions is at the core of 
-
+The last main feature that we have yet to incorporate into our application is the PayPal implementation. Being able to handle transactions is at the core of what makes a E-Commerce website so we have been doing extensive reasearch in this area to make sure that we are approaching it in the right way. The last thing we want to do is have this feature working partially and face problems with missing payments or monetary transactions.
 
 ### Improve code structure
 
