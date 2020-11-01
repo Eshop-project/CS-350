@@ -22,7 +22,7 @@ During this Milestone I spent a lot of time with the Code and Test role to go ov
 
 ### Ensure test quality
 
-The number one tool that has helped out through out the project and all of the milestone to make sure that the work we are doing is substantial and robust is Test Driven Development.
+The number one tool that has helped us out through out the project and through out all of the milestone to make sure that the work we are doing is substantial and robust is Test Driven Development.
 To ensure that Test Driven Development is working the way that is supposed to. We make sure that whoever is at Test seat for each milestones does extensive test with the new code that is bring written and to also inlcude new tests as we add new code into the application.
 
 ### Measure all remaining work
