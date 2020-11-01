@@ -2,7 +2,7 @@
 
 ### Implement all required features
 
-Up to this Milestone we have implemented all of these major features that our E-commerce website is going to use. Our goal as a teal was to tackle one major feature each milestone. Here is the break down of the features completed for the corresponding milestone. 
+Up to this Milestone we have implemented all of these major features that our E-commerce website is going to use. Our goal as a team was to tackle one major feature each milestone. Here is the break down of the features that we have completed and the corresponding milestone. 
 
 |Features|Milestone #|
 |---------------------|-----|
