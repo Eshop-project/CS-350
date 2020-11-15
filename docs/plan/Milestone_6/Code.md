@@ -10,7 +10,7 @@ Test-Driven workflow has been a main priority for our team since the start of th
 
 ### Implementation Cycle 
 
-|Implementation Cycle|
+|Implementation Cycle| | |
 |---|-----|-------------------|
 |1|Test|Right after writting some code, write tests in the test.py file that will help us identify bugs in the newly written code|
 |2|Fix|After executing the tests in the console using the "python manage.py test" command we can identify which test ran succesfully|
