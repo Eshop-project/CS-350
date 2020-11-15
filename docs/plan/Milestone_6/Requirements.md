@@ -2,8 +2,6 @@
 
 The project's main obsticles have been tackled and now there are only a handful of legitamate deliverables to finish up. 
 
-### Acceptance criteria
-
 ### Burndown Graph
 Burndown graph can be found [here](https://github.com/Eshop-project/CS-350/blob/master/docs/plan/Milestone_6/burn.pdf).
 
