@@ -9,10 +9,24 @@
         <div class="box-element product">
             <h6><strong>{{product.name}}</strong></h6>
             <hr>
-            <button data-product="{{product.id}}" data-action="add"
+            <button id='AddProduct' data-product="{{product.id}}" data-action="add" data-value=''
                 class="btn btn-outline-primary add-btn update-cart">Add to Cart </button>
+                <span class="dropdown">
+                        <button class="btn btn-outline-dark dropdown-toggle" id='Size' type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                          Size
+                          <span class="caret"></span>
+                        </button>
+                        <ul data-product="{{product.id}}" class="dropdown-menu" aria-labelledby="dropdownMenu1">
+                          <li><button data-value="8">8</button></li>
+                          <li><button data-value="9">9</button></li>
+                          <li><button data-value="10">10</button></li>
+                          <li><button data-value="11">11</button></li>
+                          <li><button data-value="12">12</button></li>
+                          <li><button data-value="13">13</button></li>
+                        </ul>
+                </span>
             <a class="btn btn-outline-dark" href="{% url 'view' product.pk %}">View</a>
-            <h4 style="display: inline-block;float: right">${{product.price|floatformat:2}}</h4>
+            <h5 style="display: inline-block; float: right">${{product.price|floatformat:2}}</h5>
 
         </div>
     </div>
