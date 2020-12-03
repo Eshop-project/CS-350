@@ -1,3 +1,3 @@
-# EShopping
+# Eshopping
 ## E-commerce Project
-### Visit us at [Eshopping] (https://eshopping.pythonanywhere.com)
+### Visit us at [Eshopping](https://eshopping.pythonanywhere.com)
